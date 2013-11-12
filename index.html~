@@ -153,7 +153,7 @@ the cost to be paid at that step</li>
 
 chosen up to that point.</li></ol>
 
-					</section>
+					</section
 					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" data-background-repeat="repeat" data-background-size="100px">
 						<h2>Inter Procedural Optimization Dead Catch</h2>
 						<img hieght="140" src='one.png'/>
